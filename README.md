@@ -45,9 +45,3 @@ make
 * Modular Programming
 * Data Persistence
 * Date and Time Management
-
-## Author
-
-T. Sanmugarajan
-B.E Electronics and Communication Engineering
-Jaya Engineering College
